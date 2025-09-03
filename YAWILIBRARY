@@ -240,7 +240,7 @@ createButton("Auto Trade Freeze", "https://raw.githubusercontent.com/nedyxxx/gAg
 createButton("Pet Size Changer", "https://raw.githubusercontent.com/nedyxxx/gAgFluxionAI/refs/heads/main/petsizechanger")
 createButton("Dark Spawner", "https://raw.githubusercontent.com/nedyxxx/gAgFluxionAI/refs/heads/main/darkspawner")
 createButton("Pet Mutation Finder", "https://raw.githubusercontent.com/nedyxxx/gAgFluxionAI/refs/heads/main/petmutation")
-createButton("Egg Randomizer", "https://raw.githubusercontent.com/GagDeveloper/GrowAGarden/refs/heads/main/EggRandomizer")
+createButton("Egg Randomizer", "https://raw.githubusercontent.com/GagDeveloper/GrowAGarden/refs/heads/main/eggrando")
 createButton("Pet Leveler", "https://raw.githubusercontent.com/nedyxxx/gAgFluxionAI/refs/heads/main/petleveler")
 
 -- Footer
